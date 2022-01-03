@@ -8,4 +8,4 @@ My name is Albert Lee and I'm currently a student at Epicodus. Projects are buil
 
 Contact: leesga8@gmail.com
 
-[![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesga8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesga8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
